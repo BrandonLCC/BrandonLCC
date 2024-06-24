@@ -12,7 +12,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://w7.pngwing.com/pngs/863/183/png-transparent-cylindrical-gray-and-green-container-illustration-oracle-sql-developer-oracle-database-pl-sql-oracle-application-express-sql-server-icon-miscellaneous-material-computer-icons-thumbnail.png" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
