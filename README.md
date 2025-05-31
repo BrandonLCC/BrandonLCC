@@ -2,7 +2,7 @@
 
 <h3 align="center"></h3>
 
-<a href="https://linkedin.com/in/brandon-luis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-luis" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/brandon-luis" target="blue"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brandon-luis" height="30" width="40" /></a>
 
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandonlcc&show_icons=true&locale=es" alt="brandonlcc" /></p>
