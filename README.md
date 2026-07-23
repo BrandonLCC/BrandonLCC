@@ -23,21 +23,6 @@
 - Colaborar en proyectos de análisis de datos y aplicaciones web.  
 - Mejorar mis habilidades en despliegue y pipeline reproducible (p. ej., Kedro, Docker, CI/CD).
 
-## Cómo ejecutar mis proyectos (instrucciones generales)
-1. Clona el repositorio:
-   git clone https://github.com/BrandonLCC/<repo>
-2. En proyectos Python:
-   - Crea y activa un entorno virtual
-   - pip install -r requirements.txt
-   - Ejecuta los notebooks o scripts según el README del repo
-3. En proyectos Java/JS/TS:
-   - Sigue las instrucciones específicas del proyecto (npm install / mvn install / etc.)
-
-## Cómo contribuir
-- Abre un issue para sugerencias o errores.  
-- Envía un pull request con mejoras: documentación, correcciones o nuevas funcionalidades.  
-- Agradezco revisiones y feedback constructivo.
-
 ## Contacto
 - Perfil GitHub: https://github.com/BrandonLCC  
 - Gmail: br.casas@duocuc.cl
