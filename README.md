@@ -79,10 +79,6 @@
 -  Procesos operacionales
 -  Business Intelligence
 ```
-
----
-
-
 <!-- <p align="center">
 ## <img src="https://cdn.simpleicons.org/github" width="20" /> Estadísticas
 
