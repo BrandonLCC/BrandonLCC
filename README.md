@@ -82,11 +82,12 @@
 
 ---
 
+
+<!-- <p align="center">
 ## <img src="https://cdn.simpleicons.org/github" width="20" /> Estadísticas
 
-<p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=BrandonLCC&show_icons=true&theme=github_dark" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonLCC&layout=compact&theme=github_dark" />
-</p>
+</p> -->
 
   
